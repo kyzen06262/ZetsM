@@ -16,9 +16,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281252848955']
+global.owner = ['601165100696']
 global.premium = ['0']
-global.botname = 'Zets-MD'
+global.botname = 'ayih-MD'
 global.packname = '© Zets-MD'
 global.author = '@naando.jpeg\n@alya.xzy'
 global.sessionName = 'session'
